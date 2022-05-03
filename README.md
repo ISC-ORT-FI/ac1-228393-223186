@@ -16,3 +16,15 @@ Encontrar los errores en el código de Terraform y corregirlos. El código despl
 El resultado debe ser la web de "Caffé" visualizada desde la url del LoadBalancer obtenida del OUTPUT. 
 
 ![caffe img](./img/caffe.png)
+
+
+---
+## Errores encontrados
+---
+
+1. Nombre de las llaves.
+2. Id de la ami.
+3. Subnet de la instacia
+4. Puerto del SG
+5. Ruta del Default Gateway
+ 
