@@ -24,7 +24,8 @@ El resultado debe ser la web de "Caffé" visualizada desde la url del LoadBalanc
 
 1. Nombre de las llaves.
 2. Id de la ami.
-3. Subnet de la instacia
+3. Subnet de la instancia
 4. Puerto del SG
 5. Ruta del Default Gateway
+6. Nombre del perfil por default
  
